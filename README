@@ -1,0 +1,9 @@
+# Sistema de Estoque de Sapatos
+# Login e Cadastro com Auth e Hash
+# Acesso destinados aos funcionários e dono do estabelecimento
+# CRUD dos produtos
+# Inserir Balanco de Caixa
+# Opções especiais de pagamento e porcentagem de lucro/desconto/prejuizo
+# Usar Template Engine p/ exibir no Browser
+
+# MongoDB, Node.js, TS
